@@ -266,6 +266,7 @@ article p {
 
 .contact-container img, .contact-container form {
     flex-basis: 49%;
+    overflow: hidden;
 }
 
 input, textarea {
