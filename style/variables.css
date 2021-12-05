@@ -1,0 +1,19 @@
+:root {
+    --containerWidth: 1088px;
+    --h1FontSze: 90px;
+    --mainFontSze: 16px;
+    --lowerFontSze: 14px;
+    --biggerFontSze: 19px;
+    --headingFontSze: 35px;
+    --headerBorderColor: rgba(0, 0, 0, 0.4);
+    --headerHoverColor: rgba(255, 255, 255, 0.2);
+    --boxShadowColor: rgba(255, 0, 0, 0.3);
+    --boxShadowWhiteColor: rgba(255, 255, 255, 0.16);
+    --blogPColor: rgba(106, 106, 106, 1);
+    --placeholderColor: rgba(178, 178, 178, 1);
+    --footerColor: rgba(209, 209, 209, 1);
+    --footerServiceBgc: rgba(40, 39, 44, 1);
+    --btnBiggerPadding: 22px 55px;
+    --btnLowerPadding: 11px 29px;
+}
+
