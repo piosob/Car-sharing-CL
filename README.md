@@ -1,4 +1,6 @@
-# Car-sharing-CL
-## Project from coderslab bootcamp 
+# one-page car sharing
+### project from coderslab bootcamp
 
-one-page site
+[check it out  - demo page](https://piosob.github.io/Car-sharing-CL/)
+
+####  html and css 
